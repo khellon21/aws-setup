@@ -27,7 +27,7 @@
 ![Network ACLs - TV-Menu-NACL Outbound](Pictures/Picture4.2(1).png)
 
 # 5.1
-![Security Groups - Customer-SG](Pictures/Picture5.1.png)
+![Security Groups - Customer-SG](Pictures/Picture5.png)
 
 # 6
 ![Terminal - Ping folgers.com](Pictures/Picture6.png)
