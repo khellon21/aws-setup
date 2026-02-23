@@ -26,7 +26,7 @@
 
 ![Network ACLs - TV-Menu-NACL Outbound](Pictures/Picture4.2(1).png)
 
-# 5.1
+# 5
 ![Security Groups - Customer-SG](Pictures/Picture5.png)
 
 # 6
