@@ -1,14 +1,14 @@
 # 1
-![VPCs - Coffee-shop-vpc](Pictures/Picture1.jpg)
+![VPCs - Coffee-shop-vpc](Pictures/Picture1.png)
 
 # 2.1
-![Subnets - Public-Subnet-Customer](Pictures/Picture2.1.jpg)
+![Subnets - Public-Subnet-Customer](Pictures/Picture2.1.png)
 
 # 2.2
-![Subnets - Business-Subnet-Server](Pictures/Picture2.2.jpg)
+![Subnets - Business-Subnet-Server](Pictures/Picture2.2.png)
 
 # 2.3
-![Subnets - TV-Menu-Subnet](Pictures/Picture2.3.jpg)
+![Subnets - TV-Menu-Subnet](Pictures/Picture2.3.png)
 
 # 3.1
 ![Route tables - customer-rt](Pictures/Picture3.1.png)
